@@ -776,10 +776,17 @@ section {
   padding: 15px 0;
 }
 
+.icici img{
+  min-width: 65%;
+}
+
 @media (max-width: 768px) {
   .clients img {
     max-width: 55%;
     min-width: 55%;
+  }
+  .icici img{
+    min-width: 85%;
   }
 }
 

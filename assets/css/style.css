@@ -134,13 +134,13 @@ h6 {
   margin: 0;
   padding: 0;
   line-height: 1;
-  font-weight: 300;
+  font-weight: 500;
   letter-spacing: 0.5px;
   font-family: "Poppins", sans-serif;
 }
 
 #header .logo a {
-  color: #16507b;
+  color: #c45c1b;
 }
 
 #header .logo img {
